@@ -1,0 +1,105 @@
+INFO: {'enums': <config.ENUMS object at 0x00000258F4D76DD0>,
+ 'market': 'US',
+ 'n_executed_trade_for_plotting': 1,
+ 'n_symbols': 5,
+ 'reporting_period': 'Year',
+ 'risk_level_percentage': 0.5,
+ 'run_parallel': False,
+ 'should_add_arima_forecasting': False,
+ 'should_add_garch': False,
+ 'should_close_at_end_of_candle': False,
+ 'should_limit_one_position_in_run_alpha': True,
+ 'should_load_from_cache': True,
+ 'should_log': True,
+ 'should_stop_loss': True,
+ 'should_take_profit': True,
+ 'slippage_rate': 0.00025,
+ 'stop_loss_percentage': 3,
+ 'strategy_name': 'enoch_try',
+ 'take_profit_percentage': 3,
+ 'take_profit_strategy': 'Simple',
+ 'trading_interval': '1d',
+ 'years_to_consider': 5}
+
+INFO: 
+----------------------------------------------------------
+                 Market   win  long_win  short_win  Trades  n_long  n_short  return(%) annual(%)
+0                    US  0.49      0.57       0.42    1149     552      597     -55.97     -15.1
+1  US-07/02/19-06/02/20  0.53      0.73       0.35     170      81       89      -1.42          
+2  US-06/02/20-04/02/21  0.43      0.52       0.34     288     145      143     -36.52          
+3  US-04/02/21-03/02/22  0.50      0.55       0.45     186      89       97     -11.81          
+4  US-03/02/22-03/02/23  0.52      0.51       0.53     321     160      161      -5.73          
+5  US-03/02/23-02/02/24  0.49      0.62       0.40     184      77      107     -15.75          
+----------------------------------------------------------
+
+
+INFO: {'enums': <config.ENUMS object at 0x0000021C08875750>,
+ 'market': 'US',
+ 'n_executed_trade_for_plotting': 1,
+ 'n_symbols': 5,
+ 'reporting_period': 'Year',
+ 'risk_level_percentage': 0.5,
+ 'run_parallel': False,
+ 'should_add_arima_forecasting': False,
+ 'should_add_garch': False,
+ 'should_close_at_end_of_candle': False,
+ 'should_limit_one_position_in_run_alpha': True,
+ 'should_load_from_cache': True,
+ 'should_log': True,
+ 'should_stop_loss': True,
+ 'should_take_profit': True,
+ 'slippage_rate': 0.00025,
+ 'stop_loss_percentage': 3,
+ 'strategy_name': 'enoch_try',
+ 'take_profit_percentage': 3,
+ 'take_profit_strategy': 'Simple',
+ 'trading_interval': '1d',
+ 'years_to_consider': 5}
+
+INFO: 
+----------------------------------------------------------
+                 Market   win  long_win  short_win  Trades  n_long  n_short  return(%) annual(%)
+0                    US  0.51      0.59       0.43    1146     553      593     -40.63      -9.9
+1  US-07/02/19-06/02/20  0.55      0.70       0.38     163      86       77       3.22          
+2  US-06/02/20-04/02/21  0.45      0.52       0.38     269     128      141     -27.25          
+3  US-04/02/21-03/02/22  0.51      0.62       0.44     191      78      113      -6.98          
+4  US-03/02/22-03/02/23  0.50      0.51       0.49     308     153      155     -14.55          
+5  US-03/02/23-02/02/24  0.55      0.69       0.42     215     108      107       0.05          
+----------------------------------------------------------
+
+
+INFO: {'enums': <config.ENUMS object at 0x000001AF0EC75750>,
+ 'market': 'US',
+ 'n_executed_trade_for_plotting': 1,
+ 'n_symbols': 5,
+ 'reporting_period': 'Year',
+ 'risk_level_percentage': 0.5,
+ 'run_parallel': False,
+ 'should_add_arima_forecasting': False,
+ 'should_add_garch': False,
+ 'should_close_at_end_of_candle': False,
+ 'should_limit_one_position_in_run_alpha': True,
+ 'should_load_from_cache': True,
+ 'should_log': True,
+ 'should_stop_loss': True,
+ 'should_take_profit': True,
+ 'slippage_rate': 0.00025,
+ 'stop_loss_percentage': 3,
+ 'strategy_name': 'enoch_try',
+ 'take_profit_percentage': 3,
+ 'take_profit_strategy': 'Simple',
+ 'trading_interval': '1d',
+ 'years_to_consider': 5}
+
+INFO: 
+----------------------------------------------------------
+                 Market   win  long_win  short_win  Trades  n_long  n_short  return(%) annual(%)
+0                    US  0.51      0.57       0.44    1116     572      544     -25.15      -5.6
+1  US-07/02/19-06/02/20  0.49      0.64       0.32     165      89       76     -10.62          
+2  US-06/02/20-04/02/21  0.50      0.55       0.44     263     141      122      -6.12          
+3  US-04/02/21-03/02/22  0.55      0.61       0.50     173      89       84       5.79          
+4  US-03/02/22-03/02/23  0.49      0.48       0.50     312     149      163     -12.07          
+5  US-03/02/23-02/02/24  0.53      0.64       0.40     203     104       99       1.48          
+----------------------------------------------------------
+
+
